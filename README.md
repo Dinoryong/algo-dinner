@@ -17,40 +17,40 @@
 
 >  Programmers Kit   [link](https://programmers.co.kr/learn/challenges)
 
-| date   | problem                                                      | 영지                          | 지웅 | 진우 |
-| ------ | ------------------------------------------------------------ | ----------------------------- | ---- | ---- |
-| 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | :white_check_mark: [my sol]() |      |      |
-|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |                               |      |      |
-| 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |                               |      |      |
-| 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |                               |      |      |
-| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |                               |      |      |
-| 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) |                               |      |      |
-| 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |                               |      |      |
-|        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |                               |      |      |
-| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |                               |      |      |
-| 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |                               |      |      |
-| 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |                               |      |      |
-| 04. 01 |                                                              |                               |      |      |
-| 04. 02 |                                                              |                               |      |      |
-| 04. 03 |                                                              |                               |      |      |
-| 04. 04 |                                                              |                               |      |      |
-| 04. 05 |                                                              |                               |      |      |
-| 04. 06 |                                                              |                               |      |      |
-| 04. 07 |                                                              |                               |      |      |
-| 04. 08 |                                                              |                               |      |      |
-| 04. 09 |                                                              |                               |      |      |
-| 04. 10 |                                                              |                               |      |      |
-| 04. 11 |                                                              |                               |      |      |
-| 04. 12 |                                                              |                               |      |      |
-| 04. 13 |                                                              |                               |      |      |
-| 04. 14 |                                                              |                               |      |      |
-| 04. 15 |                                                              |                               |      |      |
-| 04. 16 |                                                              |                               |      |      |
-| 04. 17 |                                                              |                               |      |      |
-| 04. 18 |                                                              |                               |      |      |
-| 04. 19 |                                                              |                               |      |      |
-| 04. 20 |                                                              |                               |      |      |
-| 04. 21 |                                                              |                               |      |      |
+| date   | problem                                                      | 영지                                                         | 지웅 | 진우 |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | :white_check_mark: [my sol](https://github.com/Dinoryong/algo-dinner/blob/main/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_yz.md) |      |      |
+|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |                                                              |      |      |
+| 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |                                                              |      |      |
+| 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |                                                              |      |      |
+| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |                                                              |      |      |
+| 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) |                                                              |      |      |
+| 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |                                                              |      |      |
+|        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |                                                              |      |      |
+| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |                                                              |      |      |
+| 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |                                                              |      |      |
+| 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |                                                              |      |      |
+| 04. 01 |                                                              |                                                              |      |      |
+| 04. 02 |                                                              |                                                              |      |      |
+| 04. 03 |                                                              |                                                              |      |      |
+| 04. 04 |                                                              |                                                              |      |      |
+| 04. 05 |                                                              |                                                              |      |      |
+| 04. 06 |                                                              |                                                              |      |      |
+| 04. 07 |                                                              |                                                              |      |      |
+| 04. 08 |                                                              |                                                              |      |      |
+| 04. 09 |                                                              |                                                              |      |      |
+| 04. 10 |                                                              |                                                              |      |      |
+| 04. 11 |                                                              |                                                              |      |      |
+| 04. 12 |                                                              |                                                              |      |      |
+| 04. 13 |                                                              |                                                              |      |      |
+| 04. 14 |                                                              |                                                              |      |      |
+| 04. 15 |                                                              |                                                              |      |      |
+| 04. 16 |                                                              |                                                              |      |      |
+| 04. 17 |                                                              |                                                              |      |      |
+| 04. 18 |                                                              |                                                              |      |      |
+| 04. 19 |                                                              |                                                              |      |      |
+| 04. 20 |                                                              |                                                              |      |      |
+| 04. 21 |                                                              |                                                              |      |      |
 
 It will be updated soon...
 
