@@ -1,7 +1,7 @@
 # Dinner with Algorithms Challenge
 <br>
 
-## :notebook_with_decorative_cover: Algorithms Challenge (feat.leetcode)
+## :notebook_with_decorative_cover: Algorithms Challenge (feat.programmers)
 
 - Goal : 
   1. Algorithmic Thinking
