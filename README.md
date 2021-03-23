@@ -20,7 +20,7 @@
 | date   | problem                                                      | 영지               | 지웅 | 진우 |
 | ------ | ------------------------------------------------------------ | ------------------ | ---- | ---- |
 | 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | :white_check_mark: |  ✅    |      |
-|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |                    |      |      |
+|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |                    | ✅     |      |
 | 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |                    |      |      |
 | 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |                    |      |      |
 | 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |                    |      |      |
