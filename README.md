@@ -24,7 +24,7 @@
 |        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                  | :white_check_mark: | ✅   | ✅   |
 | 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                      | :white_check_mark: | :white_check_mark:     | :white_check_mark: |
-| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                |                    |      | :white_check_mark: |
+| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                |                    | :white_check_mark:     | :white_check_mark: |
 | 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)                   |                    |      |      |
 | 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                    |      |      |
 |        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)        |                    |      |      |
