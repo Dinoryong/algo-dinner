@@ -28,7 +28,7 @@
 | 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)                   |                    | :white_check_mark:     |      |
 | 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                    |   :white_check_mark:    |      |
 |        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)        |                    | ✅     |      |
-| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  |                    |      |      |
+| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  |                    | :white_check_mark:     |      |
 | 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              |                    |      |      |
 | 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  |                    |      |      |
 | 04. 01 |                                                                                       |                    |      |      |
