@@ -31,7 +31,7 @@
 | 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  |                    | :white_check_mark:     |      |
 | 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | :white_check_mark: | :white_check_mark:     |      |
 | 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  | :white_check_mark: | :white_check_mark:     |      |
-| 04. 01 |                                                                                       |                    |      |      |
+| 04. 01 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)                                                                                      |                    |      |      |
 | 04. 02 |                                                                                       |                    |      |      |
 | 04. 03 |                                                                                       |                    |      |      |
 | 04. 04 |                                                                                       |                    |      |      |
