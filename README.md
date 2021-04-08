@@ -38,7 +38,7 @@
 | 04. 05 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                          |                    | :white_check_mark:      |      ||
 | 04. 06 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |                    | :white_check_mark:     |      | :white_check_mark: |
 | 04. 07 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |                    |  :white_check_mark:     |      |  :white_check_mark:   |
-| 04. 08 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |                    |      |      |          |
+| 04. 08 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |                    | :     |      |          |
 | 04. 09 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |                    |      |      |          |
 | 04. 10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |                    |      |      |        |
 | 04. 11 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |                    |      |      |       |
