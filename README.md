@@ -44,7 +44,7 @@
 | 04. 11 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)               | ✅ | ✅ | ✅ | ✅ |
 | 04. 12 | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)         | :white_check_mark: | ✅ | | ✅ |
 | 04. 13 | [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) (이건 DP 좀 최상위 문제라 안풀어도됨         )  OR [퇴사2](https://www.acmicpc.net/problem/15486)                                                         | :white_check_mark: | ✅ | | ✅ |
-| 04. 14 | [스타수열](https://programmers.co.kr/learn/courses/30/lessons/70130)                 | | ✅ | | ✅ |
+| 04. 14 | [스타수열](https://programmers.co.kr/learn/courses/30/lessons/70130)                 | :white_check_mark: | ✅ | | ✅ |
 | 04. 15 | [합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413) OR [우유도시](https://www.acmicpc.net/problem/14722)                                                                                                                                          | | | | |
 | 04. 16 | [선발명단](https://www.acmicpc.net/problem/3980) OR [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)                                                                                                                                              | | | | |
 | 04. 17 | [K번째 수](https://www.acmicpc.net/problem/1300) OR    [불!](https://www.acmicpc.net/problem/4179)                                                                                                                                                                       |                    |      |      |          |
