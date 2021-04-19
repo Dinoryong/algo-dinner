@@ -10,7 +10,7 @@
 - How to achieve goal ?
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
-- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [WolframH]() , [AndoneKwon]()
+- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [WolframH]() , [AndoneKwon](), [Juyoung]()
 
 <br>
 
@@ -49,8 +49,8 @@
 | 04. 16 | [선발명단](https://www.acmicpc.net/problem/3980) OR [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)                                                                                                                                              | | ✅ | |✅|
 | 04. 17 | [K번째 수](https://www.acmicpc.net/problem/1300) OR    [불!](https://www.acmicpc.net/problem/4179)  | | ✅ | ✅ | ✅ |
 | 04. 18 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) OR [파일합치기](https://www.acmicpc.net/problem/11066) |                    |      |      |          |
-| 04. 19 |                                                                                       |                    |      |      |          |
-| 04. 20 |                                                                                       |                    |      |      |          |
+| 04. 19 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) OR [사회망서비스](https://www.acmicpc.net/problem/2533) |                    |      |      |          |
+| 04. 20 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) OR [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |                    |      |      |          |
 | 04. 21 |                                                                                       |                    |      |      |          |
 | 04. 22 |                                                                                       |                    |      |      |          |
 | 04. 23 |                                                                                       |                    |      |      |          |
