@@ -52,7 +52,7 @@
 | 04. 19 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) OR [사회망서비스](https://www.acmicpc.net/problem/2533) OR [월코챌 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) |     | ✅  | ✅ |     ✅     |
 | 04. 20 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) OR [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) OR [월코챌 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) OR [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) |    | ✅  |      |          |
 | 04. 21 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) AND [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) OR [BOJ 계단수](https://www.acmicpc.net/problem/1562) |   | ✅ |      |          |
-| 04. 22 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) AND [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) OR [BOJ LCS](https://www.acmicpc.net/problem/9252) |   |      |      |          |
+| 04. 22 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) AND [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) OR [BOJ LCS](https://www.acmicpc.net/problem/9252) |   | ✅ |      |          |
 | 04. 23 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) AND [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) OR [BOJ 2xN타일링](https://www.acmicpc.net/problem/11726) |                    |      |      |          |
 | 04. 24 |                                                                                       |                    |      |      |          |
 | 04. 25 |                                                                                       |                    |      |      |          |
