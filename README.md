@@ -57,7 +57,7 @@
 | 04. 24 |                                                              |                    |      |      |          |
 | 04. 25 |                                                              |                    |      |      |          |
 | 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | :white_check_mark: | ✅ |   |      |
-| 04. 27 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |   |   |     |
+| 04. 27 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  | ✅ |   |     |
 | 04. 28 | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |    |   |   |    |
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) |  |  |  |    |
 | 04. 30 | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) |   |  |  |   |
