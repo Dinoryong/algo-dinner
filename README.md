@@ -56,7 +56,7 @@
 | 04. 23 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) AND [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) OR [BOJ 2xN타일링](https://www.acmicpc.net/problem/11726) |   | ✅ | ✅ |          |
 | 04. 24 |                                                              |                    |      |      |          |
 | 04. 25 |                                                              |                    |      |      |          |
-| 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |   | ✅ |   |      |
+| 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | :white_check_mark: | ✅ |   |      |
 | 04. 27 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |   |   |     |
 | 04. 28 | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |    |   |   |    |
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) |  |  |  |    |
