@@ -61,7 +61,7 @@
 | 04. 28 | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |    | ✅ |   |    |
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) |  | :white_check_mark: |  |    |
 | 04. 30 | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) |   | :white_check_mark:  |  |   |
-| 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/4288) | | | | |
+| 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/4288) | | ✅ | | |
 | 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | | | | |
 |  | | | | | |
 |  | | | | | |
