@@ -63,13 +63,13 @@
 | 04. 30 | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | :white_check_mark: | :white_check_mark:  |  |   |
 | 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/4288) | :white_check_mark: | ✅ | | |
 | 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | | | | |
-|  | | | | | |
-|  | | | | | |
-|  | | | | | |
-|  | | | | | |
-|  | | | | | |
-|  | | | | | |
-|  | | | | | |
+| 05. 03 |  | | | | |
+| 05. 04 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | | | | |
+| 05. 05 | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | | | | |
+| 05. 06 | [중앙값 구하기](https://www.acmicpc.net/problem/2696)| | | | |
+| 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| | | | |
+| 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | | | | |
+| 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | | | | |
 |  | | | | | |
 |  | | | | | |
 |  | | | | | |
