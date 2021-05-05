@@ -1,6 +1,5 @@
 // Solved by Wolfram Hwang
 // 단순한 완탐이다.
-
 import Foundation
 var visit : [Int] = []
 var locking : [Int] = []
@@ -24,10 +23,10 @@ func bfs() {
         locking[0] = -1
     }
     visit[0] = -2
-    
-    while q.count > 0 {
-        let now = q[0]
-        q.removeFirst()
+    var ql = 0
+    while q.count - ql > 0 {
+        let now = q[ql]
+        ql += 1
         for next in graph[now] {
             if visit[next] == -2 {
                 continue
