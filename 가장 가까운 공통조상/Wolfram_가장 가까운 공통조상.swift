@@ -1,3 +1,11 @@
+// Solved by Wolfram Hwang
+// 간단한 LCA 문제입니다.
+// 아마 유니온 파인드나 MST에 대한 개념을 알고있다면 매우간단하게 풀수 있는데요,
+// 각각의 Parent에 대한 정보를 계속 타고가면서 저장하고
+// 하나씩 차례대로 결과를 비교했을때,
+// 공통 조상에 대한 정보를 출력해주면 됩니다.
+
+
 import Foundation
 
 let T = Int(readLine()!)!
