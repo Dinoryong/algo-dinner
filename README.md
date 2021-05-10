@@ -69,7 +69,7 @@
 | 05. 06 | [중앙값 구하기](https://www.acmicpc.net/problem/2696)| | ✅ | | |
 | 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| | ✅ | | |
 | 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | | | | |
-| 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | | | | |
+| 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | | ✅ | | |
 |  | | | | | |
 |  | | | | | |
 |  | | | | | |
