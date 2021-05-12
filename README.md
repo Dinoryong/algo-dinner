@@ -70,9 +70,9 @@
 | 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| | ✅ | | |
 | 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | | | | |
 | 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | | ✅ | | |
-| 05.10 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | | | | |
-| 05.11 | [Min Stack](https://leetcode.com/problems/min-stack/) | | | | |
-| 05.12 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | | | | |
+| 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | | | | |
+| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | | | | |
+| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | | | | |
 | 05.13 | | | | | |
 
 It will be updated soon...
