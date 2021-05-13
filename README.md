@@ -71,8 +71,8 @@
 | 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | | | | |
 | 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | | ✅ | | |
 | 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | | :white_check_mark: | | |
-| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | | | | |
-| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | | | | |
+| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | | ✅ | | |
+| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | | ✅ | | |
 | 05.13 | | | | | |
 
 It will be updated soon...
