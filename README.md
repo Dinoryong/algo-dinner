@@ -73,6 +73,8 @@
 | 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | | :white_check_mark: | | |
 | 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | | ✅ | | |
 | 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | | ✅ | | |
-| 05.13 | | | | | |
+| 05.13 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | | | | |
+| 05.14 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | | | |
+| 05.15 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | | | | |
 
 It will be updated soon...
