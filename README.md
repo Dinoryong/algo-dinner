@@ -73,8 +73,8 @@
 | 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | | :white_check_mark: | | |
 | 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | | ✅ | | |
 | 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | | ✅ | | |
-| 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | | | |
-| 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | | | | |
-| 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | | | |
+| 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | ✅ | | |
+| 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | | ✅ | | |
+| 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | ✅ | | |
 
 It will be updated soon...
