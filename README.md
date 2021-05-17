@@ -18,8 +18,8 @@
 
 > Programmers Kit [link](https://programmers.co.kr/learn/challenges)
 
-| date   | problem                                                                               | 영지 | 지웅 | 진우 | 주영 |
-| ------ | ------------------------------------------------------------------------------------- | ----- | ---- | ---- | ---- |
+| date   | problem                                                                               | 영지 | 지웅 | 진우 | 주영 | 예은 |
+| ------ | ------------------------------------------------------------------------------------- | ----- | ---- | ---- | ---- | ---- |
 | 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | ✅ | ✅ | ✅ ||
 |        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                  | ✅ | ✅ | ✅ ||
 | 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | ✅ | ✅ | ✅ ||
@@ -61,7 +61,7 @@
 | 04. 28 | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | :white_check_mark: | ✅ |   |    |
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | :white_check_mark: | :white_check_mark: | ✅ |    |
 | 04. 30 | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | :white_check_mark: | :white_check_mark:  | ✅ |   |
-| 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | :white_check_mark: | ✅ | ✅ | |
+| 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | | | ✅ | |
 | 05. 03 |  | | |  | |
 | 05. 04 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | | :white_check_mark: | ✅ | |
