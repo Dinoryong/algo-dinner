@@ -76,5 +76,11 @@
 | 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | ✅ | | |
 | 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | | ✅ | | |
 | 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | ✅ | | |
+| 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | |  | | |
+| 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | |  | | |
+| 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | |  | | |
+| 05.21 | [Sum of Tow Integer](https://leetcode.com/problems/sum-of-two-integers/) | |  | | |
+| 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | |
+| 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | |  | | |
 
 It will be updated soon...
