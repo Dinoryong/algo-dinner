@@ -64,20 +64,20 @@
 | 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | | | ✅ | ||
 | 05. 03 |  | | |  | ||
-| 05. 04 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | | :white_check_mark: | ✅ | ||
-| 05. 05 | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | | :white_check_mark: | | ||
-| 05. 06 | [중앙값 구하기](https://www.acmicpc.net/problem/2696)| | ✅ | ✅ | ||
-| 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| | ✅ | ✅ | ||
-| 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | | ✅ |  | ||
-| 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | | ✅ | ✅ | ||
-| 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | | :white_check_mark: | ✅ | ||
-| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | | ✅ | ✅ | ||
-| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | | ✅ | ✅ | ||
-| 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | ✅ | ✅ | ||
-| 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | | ✅ | ✅ | ||
-| 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | ✅ | ✅ | | ✅ |
-| 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | | ✅ | | | ✅ |
-| 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | :white_check_mark:  | | ||
+| 05. 04 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | :white_check_mark: | :white_check_mark: | ✅ | ||
+| 05. 05 | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | :white_check_mark: | :white_check_mark: | | ||
+| 05. 06 | [중앙값 구하기](https://www.acmicpc.net/problem/2696)| :white_check_mark: | ✅ | ✅ | ||
+| 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| :white_check_mark: | ✅ | ✅ | ||
+| 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | :white_check_mark: | ✅ |  | ||
+| 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | :white_check_mark: | ✅ | ✅ | ||
+| 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | :white_check_mark: | :white_check_mark: | ✅ | ||
+| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | :white_check_mark: | ✅ | ✅ | ||
+| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: | ✅ | ✅ | ||
+| 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | :white_check_mark: | ✅ | ✅ | ||
+| 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | :white_check_mark: | ✅ | ✅ | ||
+| 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :white_check_mark: | ✅ | ✅ | | ✅ |
+| 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | | | ✅ |
+| 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | | ||
 | 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | |  | | ||
 | 05.21 | [Sum of Tow Integer](https://leetcode.com/problems/sum-of-two-integers/) | |  | | ||
 | 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | ||
