@@ -77,7 +77,7 @@
 | 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | :white_check_mark: | ✅ | ✅ | ||
 | 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | | | ✅ |
-| 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | | ||
+| 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | | | ✅ |
 | 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | | ✅ | | ||
 | 05.21 | [Sum of Tow Integer](https://leetcode.com/problems/sum-of-two-integers/) | |  | | ||
 | 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | ||
