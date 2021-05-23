@@ -76,7 +76,7 @@
 | 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | :white_check_mark: | ✅ | ✅ | ||
 | 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | :white_check_mark: | ✅ | ✅ | ||
 | 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :white_check_mark: | ✅ | ✅ | | ✅ |
-| 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | | | ✅ |
+| 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | | |  |
 | 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | | ✅ | | | ✅ |
 | 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | | ✅  | | ||
