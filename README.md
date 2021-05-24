@@ -10,7 +10,7 @@
 - How to achieve goal ?
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
-- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [WolframH]() , [AndoneKwon](), [Juyoung]()
+- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [WolframH]() , [AndoneKwon](), [Juyoung](), [Yenny](https://github.com/pyeeun)
 
 <br>
 
@@ -82,5 +82,7 @@
 | 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | | ✅  | | ||
 | 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | ||
 | 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | |  | | ||
+| 05.24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | | | | |
+| 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | | | | |
 
 It will be updated soon...
