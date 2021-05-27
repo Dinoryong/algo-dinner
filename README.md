@@ -85,7 +85,7 @@
 | 05.24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | :white_check_mark: | ✅ | | | ✅ |
 | 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | ✅ | | | |
 | 05.26 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | | ✅| | | |
-| 05.27 | [단체사진찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | | | | | |
+| 05.27 | [gas station](https://leetcode.com/problems/gas-station/) | | | | | |
 | 05.28 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | | | | | |
 
 
