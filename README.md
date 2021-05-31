@@ -86,7 +86,7 @@
 | 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | ✅ | | | |
 | 05.26 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | | ✅| | | |
 | 05.27 | [gas station](https://leetcode.com/problems/gas-station/) | | ✅ | | | |
-| 05.28 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | | ✅ | | | |
+| 05.28 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | | ✅ | | | ✅ |
 | 05.29 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | | ✅ | | | |
 | 05.30 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | ✅ | | | |
 | 05.31 | [minimum path sum](https://leetcode.com/problems/minimum-path-sum/) | | ✅ | | | ✅ |
