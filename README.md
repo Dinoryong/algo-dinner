@@ -90,7 +90,7 @@
 | 05.29 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | | ✅ | | | |
 | 05.30 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | ✅ | | | |
 | 05.31 | [minimum path sum](https://leetcode.com/problems/minimum-path-sum/) | | ✅ | | | ✅ |
-| 06.01 | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | | | | |
+| 06.01 | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | | | | ✅ |
 | 06.02 | [kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | | | | | |
 | 06.03 | [surrounded regions](https://leetcode.com/problems/surrounded-regions/) | | | | | |
 | 06.04 | [외벽 점검](https://programmers.co.kr/learn/challenges?tab=all_challenges) | | | | | |
