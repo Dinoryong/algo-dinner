@@ -94,7 +94,7 @@
 | 06.02 | [kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | | ✅ | | | ✅ |
 | 06.03 | [surrounded regions](https://leetcode.com/problems/surrounded-regions/) | | ✅ | | | |
 | 06.04 | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | | ✅ | | | |
-| 06.05 | [외벽 점검](https://programmers.co.kr/learn/challenges?tab=all_challenges) | | | | | |
+| 06.05 | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | | | | | |
 | 06.06 | [powx-n](https://leetcode.com/problems/powx-n/) | | | | | |
 
 
