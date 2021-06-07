@@ -79,9 +79,9 @@
 | 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | |✅ | ✅ |
 | 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | | ✅ | | ✅| ✅ |
-| 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | | ✅ | | | ✅ |
+| 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | | ✅ | ✅ | | ✅ |
 | 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | ||
-| 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | | ✅  | | ||
+| 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | | ✅  | ✅ | ||
 | 05.24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | :white_check_mark: | ✅ | | | ✅ |
 | 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | ✅ | | | |
 | 05.26 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | | ✅| | | |
