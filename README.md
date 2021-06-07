@@ -82,7 +82,7 @@
 | 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | | ✅ | ✅ | | ✅ |
 | 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | ||
 | 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | | ✅  | ✅ | ||
-| 05.24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | :white_check_mark: | ✅ | | | ✅ |
+| 05.24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | ✅ | | | |
 | 05.26 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | | ✅| | | |
 | 05.27 | [gas station](https://leetcode.com/problems/gas-station/) | | ✅ | | | |
