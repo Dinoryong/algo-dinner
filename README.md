@@ -70,12 +70,12 @@
 | 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| :white_check_mark: | ✅ | ✅ | ||
 | 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | :white_check_mark: | ✅ |  | ||
 | 05. 09 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | :white_check_mark: | ✅ | ✅ | ||
-| 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | :white_check_mark: | :white_check_mark: | ✅ | ||
-| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | :white_check_mark: | ✅ | ✅ | ||
-| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: | ✅ | ✅ | ||
-| 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | :white_check_mark: | ✅ | ✅ | ||
-| 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | :white_check_mark: | ✅ | ✅ | ||
-| 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :white_check_mark: | ✅ | ✅ | | ✅ |
+| 05.10 | [Permutations](https://leetcode.com/problems/permutations/) | :white_check_mark: | :white_check_mark: | ✅ | ✅ ||
+| 05.11 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | :white_check_mark: | ✅ | ✅ |✅ ||
+| 05.12 | [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: | ✅ | ✅ |✅ ||
+| 05.13 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | :white_check_mark: | ✅ | ✅ |✅ ||
+| 05.14 | [Combinaion Sum](https://leetcode.com/problems/combination-sum/) | :white_check_mark: | ✅ | ✅ |✅ ||
+| 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :white_check_mark: | ✅ | ✅ |✅ | ✅ |
 | 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | ✅ | | ✅ |
 | 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | | | ✅ |
 | 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | | ✅ | | | ✅ |
