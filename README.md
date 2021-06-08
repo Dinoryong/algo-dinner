@@ -101,7 +101,7 @@
 
 season . 2
 
-| 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | :white_check_mark: |      |      |      |      |
+| 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | :white_check_mark: |  ✅    |      |      |      |
 | ----- | ------------------------------------------------------------ | ------------------ | ---- | ---- | ---- | ---- |
 |       |                                                              |                    |      |      |      |      |
 |       |                                                              |                    |      |      |      |      |
