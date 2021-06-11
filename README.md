@@ -57,7 +57,7 @@
 | 04. 24 |                                                              |                    |      |      |          ||
 | 04. 25 |                                                              |                    |      |      |          ||
 | 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | :white_check_mark: | ✅ | ✅ |      ||
-| 04. 27 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | :white_check_mark: | ✅ | ✅ |     ||
+| 04. 27 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | :white_check_mark: | ✅ | ✅ |  ✅   ||
 | 04. 28 | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | :white_check_mark: | ✅ |   |    ||
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | :white_check_mark: | :white_check_mark: | ✅ |    ||
 | 04. 30 | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | :white_check_mark: | :white_check_mark:  | ✅ |   ||
@@ -65,7 +65,7 @@
 | 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | | | ✅ | ||
 | 05. 03 |  | | |  | ||
 | 05. 04 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | :white_check_mark: | :white_check_mark: | ✅ | ||
-| 05. 05 | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | :white_check_mark: | :white_check_mark: | | ||
+| 05. 05 | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | :white_check_mark: | :white_check_mark: | | ✅ ||
 | 05. 06 | [중앙값 구하기](https://www.acmicpc.net/problem/2696)| :white_check_mark: | ✅ | ✅ | ||
 | 05. 07 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| :white_check_mark: | ✅ | ✅ | ||
 | 05. 08 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | :white_check_mark: | ✅ |  | ||
