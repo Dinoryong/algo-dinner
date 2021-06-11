@@ -108,7 +108,7 @@ season . 2
 | 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |          | ✅ |      |  ✅    | ✅ |
 | 06.11 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/) |       |  ✅ |      |      |      |
 | 06.12 | [Search a 2d Matrix 2](https://leetcode.com/problems/search-a-2d-matrix-ii/) |                    |      |      |      |      |
-| 06.13 | [Count and Say](https://leetcode.com/problems/count-and-say/) |                    |      |      |      |      |
+| 06.13 | [Count and Say](https://leetcode.com/problems/count-and-say/) |                    |      |      |      | ✅ |
 
 
 
