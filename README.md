@@ -101,8 +101,9 @@
 
 season . 2
 
+| date   | problem                                                                               | 영지 | 지웅 | 진우 | 주영 | 예은 |
+| ------ | ------------------------------------------------------------------------------------- | ----- | ---- | ---- | ---- | ---- |
 | 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | :white_check_mark: |  ✅    |      |      | ✅ |
-| ----- | ------------------------------------------------------------ | ------------------ | ---- | ---- | ---- | ---- |
 | 06.08 | [Word Break](https://leetcode.com/problems/word-break/) |                    |  ✅    |      |      | ✅ |
 | 06.09 | [Game of Life](https://leetcode.com/problems/game-of-life/) |                    | ✅     |      |      | ✅ |
 | 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |          | ✅ |      |  ✅    | ✅ |
