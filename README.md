@@ -103,7 +103,7 @@ season . 2
 
 | 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | :white_check_mark: |  ✅    |      |      | ✅ |
 | ----- | ------------------------------------------------------------ | ------------------ | ---- | ---- | ---- | ---- |
-| 06.08 | [Word Break](https://leetcode.com/problems/word-break/) |                    |  ✅    |      |      |      |
+| 06.08 | [Word Break](https://leetcode.com/problems/word-break/) |                    |  ✅    |      |      | ✅ |
 | 06.09 | [Game of Life](https://leetcode.com/problems/game-of-life/) |                    | ✅     |      |      | ✅ |
 | 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |          | ✅ |      |  ✅    | ✅ |
 | 06.11 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/) |       |  ✅ |      |      |      |
