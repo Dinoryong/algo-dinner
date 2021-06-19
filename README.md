@@ -117,6 +117,7 @@ season . 2
 | 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                           | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 06.21 | [ACM Craft](https://www.acmicpc.net/problem/1005) | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 
 
