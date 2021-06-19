@@ -114,7 +114,7 @@ season . 2
 | 06.15 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)                       | ✅ | ✅ | ⬜ | ⬜ | ✅ | ⬜ |
 | 06.16 | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                            | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |
 | 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |
-| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |
 | 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                           | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
