@@ -10,7 +10,7 @@
 - How to achieve goal ?
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
-- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [WolframH]() , [AndoneKwon](), [Juyoung](), [Yenny](https://github.com/pyeeun)
+- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [WolframH]() , [AndoneKwon](), [Juyoung](https://github.com/JooYoung1121), [Yenny](https://github.com/pyeeun)
 
 <br>
 
