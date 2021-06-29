@@ -123,7 +123,7 @@ season . 2
 | 06.24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 06.25 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                               | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |
 | 06.26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 06.27 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 06.27 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |
 |  |  |  |  |  |  |  |  |
 
 
