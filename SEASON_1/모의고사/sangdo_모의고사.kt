@@ -17,13 +17,22 @@ class Solution {
         num += if(ok1 == max) 1 else 0
         num += if(ok2 == max) 1 else 0
         num += if(ok3 == max) 1 else 0
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 3f51d8734cac13367c54afdee05a0be61372470e
         var res = IntArray(num)
         var l = 0
         if(max == ok1) res[l++] = 1
         if(max == ok2) res[l++] = 2
+<<<<<<< HEAD
         if(max == ok3) res[l++] = 3
 
+=======
+        if(max == ok4) res[l++] = 3
+        
+>>>>>>> 3f51d8734cac13367c54afdee05a0be61372470e
         return res
     }
 }
