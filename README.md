@@ -20,17 +20,17 @@
 
 | date   | problem                                                                               | 영지 | 지웅 | 진우 | 주영 | 예은 |상도|
 | ------ | ------------------------------------------------------------------------------------- | ----- | ---- | ---- | ---- | ---- |----|
-| 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | ✅ | ✅ | ✅ ||||
-|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                  | ✅ | ✅ | ✅ ||||
-| 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | ✅ | ✅ | ✅ ||||
-| 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                      | ✅ | ✅ | ✅ ||||
-| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                | ✅ | ✅ | ✅ ||||
-| 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)                   | ✅ | ✅ | ✅ ||||
-| 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                    | ✅ | ✅ | ✅ ||||
-|        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)        | ✅ | ✅ | ✅ ||||
-| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  | ✅ | ✅ | ✅ ||||
-| 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | ✅ | ✅ | ✅ ||||
-| 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  | ✅ | ✅ | ✅ ||||
+| 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | ✅ | ✅ | ✅ |||✅|
+|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                  | ✅ | ✅ | ✅ |||✅|
+| 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | ✅ | ✅ | ✅ |||✅|
+| 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                      | ✅ | ✅ | ✅ |||✅|
+| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                | ✅ | ✅ | ✅ |||✅|
+| 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)                   | ✅ | ✅ | ✅ |||✅|
+| 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                    | ✅ | ✅ | ✅ |||✅|
+|        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)        | ✅ | ✅ | ✅ |||✅|
+| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  | ✅ | ✅ | ✅ |||✅|
+| 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | ✅ | ✅ | ✅ |||✅|
+| 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  | ✅ | ✅ | ✅ |||✅|
 | 04. 01 | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)               | ✅ | ✅ | ✅ ||||
 | 04. 02 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)          | ✅ | ✅ | ✅ ||||
 | 04. 03 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)                 | ✅ | ✅ | ✅ ||||
