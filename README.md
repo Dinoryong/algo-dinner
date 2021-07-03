@@ -103,24 +103,24 @@ season . 2
 
 | date   | problem                                                                                      | 영지| 지웅| 진우| 주영| 예은|건욱|상도|
 | ------ | -----------------------------------------------------------------------------------          | ---|---| ---| ---| ---|---|---|
-| 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                           | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |⬜ |
-| 06.08 | [Word Break](https://leetcode.com/problems/word-break/)                                       | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |⬜ |
-| 06.09 | [Game of Life](https://leetcode.com/problems/game-of-life/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)               | ⬜ | ✅ | ✅ | ✅ | ✅ | ⬜ |⬜ |
-| 06.11 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)                        | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.12 | [Search a 2d Matrix 2](https://leetcode.com/problems/search-a-2d-matrix-ii/)                  | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.13 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                 | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.14 | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)                         | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.15 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)                    | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.16 | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                           | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |⬜ |
-| 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |⬜ |
-| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |⬜ |
-| 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |⬜ |
-| 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                        | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ⬜ |⬜ |
-| 06.21 | [ACM Craft](https://www.acmicpc.net/problem/1005)                                             | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |⬜ |
-| 06.22 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |⬜ |
-| 06.23 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)                | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |⬜ |
-| 06.24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |⬜ |
+| 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                           | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.08 | [Word Break](https://leetcode.com/problems/word-break/)                                       | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.09 | [Game of Life](https://leetcode.com/problems/game-of-life/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)               | ⬜ | ✅ | ✅ | ✅ | ✅ | ⬜ |✅ |
+| 06.11 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)                        | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.12 | [Search a 2d Matrix 2](https://leetcode.com/problems/search-a-2d-matrix-ii/)                  | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.13 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                 | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.14 | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)                         | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.15 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)                    | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.16 | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                           | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
+| 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |✅ |
+| 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                        | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ⬜ |✅ |
+| 06.21 | [ACM Craft](https://www.acmicpc.net/problem/1005)                                             | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |✅ |
+| 06.22 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |✅ |
+| 06.23 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)                | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |✅ |
+| 06.24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |✅ |
 | 06.25 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                               | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |✅ |
 | 06.26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |✅ |
 | 06.27 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |✅ |
