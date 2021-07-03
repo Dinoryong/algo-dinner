@@ -20,17 +20,17 @@
 
 | date   | problem                                                                               | 영지 | 지웅 | 진우 | 주영 | 예은 |상도|
 | ------ | ------------------------------------------------------------------------------------- | ----- | ---- | ---- | ---- | ---- |----|
-| 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | ✅ | ✅ | ✅ ||||
-|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                  | ✅ | ✅ | ✅ ||||
-| 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | ✅ | ✅ | ✅ ||||
-| 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                      | ✅ | ✅ | ✅ ||||
-| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                | ✅ | ✅ | ✅ ||||
-| 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)                   | ✅ | ✅ | ✅ ||||
-| 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                    | ✅ | ✅ | ✅ ||||
-|        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)        | ✅ | ✅ | ✅ ||||
-| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  | ✅ | ✅ | ✅ ||||
-| 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | ✅ | ✅ | ✅ ||||
-| 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  | ✅ | ✅ | ✅ ||||
+| 03. 23 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | ✅ | ✅ | ✅ |||✅|
+|        | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                  | ✅ | ✅ | ✅ |||✅|
+| 03. 24 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | ✅ | ✅ | ✅ |||✅|
+| 03. 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                      | ✅ | ✅ | ✅ |||✅|
+| 03. 26 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                | ✅ | ✅ | ✅ |||✅|
+| 03. 27 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)                   | ✅ | ✅ | ✅ |||✅|
+| 03. 28 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                    | ✅ | ✅ | ✅ |||✅|
+|        | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)        | ✅ | ✅ | ✅ |||✅|
+| 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  | ✅ | ✅ | ✅ |||✅|
+| 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | ✅ | ✅ | ✅ |||✅|
+| 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  | ✅ | ✅ | ✅ |||✅|
 | 04. 01 | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)               | ✅ | ✅ | ✅ ||||
 | 04. 02 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)          | ✅ | ✅ | ✅ ||||
 | 04. 03 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)                 | ✅ | ✅ | ✅ ||||
@@ -113,17 +113,17 @@ season . 2
 | 06.14 | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)                         | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
 | 06.15 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)                    | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |⬜ |
 | 06.16 | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                           | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |⬜ |
-| 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |⬜ |
-| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |⬜ |
+| 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |⬜ |
+| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |⬜ |
 | 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |⬜ |
 | 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                        | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ⬜ |⬜ |
 | 06.21 | [ACM Craft](https://www.acmicpc.net/problem/1005)                                             | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |⬜ |
 | 06.22 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |⬜ |
 | 06.23 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)                | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |⬜ |
 | 06.24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                        | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |⬜ |
-| 06.25 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                               | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |⬜ |
-| 06.26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |⬜ |
-| 06.27 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |⬜ |
+| 06.25 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                               | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |✅ |
+| 06.26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |✅ |
+| 06.27 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |✅ |
 |  |  |  |  |  |  |  |  ||
 
 
