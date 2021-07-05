@@ -31,8 +31,8 @@
 | 03. 29 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                  | ✅ | ✅ | ✅ |||✅|
 | 03. 30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | ✅ | ✅ | ✅ |||✅|
 | 03. 31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                  | ✅ | ✅ | ✅ |||✅|
-| 04. 01 | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)               | ✅ | ✅ | ✅ ||||
-| 04. 02 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)          | ✅ | ✅ | ✅ ||||
+| 04. 01 | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)               | ✅ | ✅ | ✅ |||✅|
+| 04. 02 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)          | ✅ | ✅ | ✅ |||✅|
 | 04. 03 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)                 | ✅ | ✅ | ✅ ||||
 | 04. 04 |  [호석이 두마리 치킨](https://www.acmicpc.net/problem/21278)                           | ✅ | ✅ | ✅ |✅|||
 | 04. 05 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                      | ✅ | ✅ | ✅ ||||
