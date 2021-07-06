@@ -136,9 +136,9 @@ season . 2
 | 07.05      | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜    |
 | 07.06      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ⬜                  | ⬜    | ⬜    | ⬜     | ⬜    |✅ | ⬜    |
 | 07.07      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
-| 07.08      | [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
+| 07.08      | [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜    |
 | 07.09      | [Remove duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3258/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
-| 07.10      | [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
+| 07.10      | [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜    |
 | 07.11.지웅 | []()                                                         | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
 | 07.12      | []()                                                         | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
 | 07.13      | []()                                                         | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
