@@ -132,7 +132,7 @@ season . 2
 
 | date       | problem set                                                  | 영지               | 지웅 | 진우 | 주영 | 예은 | 건욱 | 상도 |
 | ---------- | ------------------------------------------------------------ | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| 07.04.영지 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | :white_check_mark: | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
+| 07.04.영지 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | :white_check_mark: | ⬜    | ⬜    | ⬜    | ⬜    | ✅     | ⬜    |
 | 07.05      | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
 | 07.06      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
 | 07.07      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
