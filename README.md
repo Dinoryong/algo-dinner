@@ -134,7 +134,7 @@ season . 2
 | ---------- | ------------------------------------------------------------ | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
 | 07.04.영지 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | :white_check_mark: | ⬜    | ⬜    | ⬜    | ⬜    | ✅     | ✅    |
 | 07.05      | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | :white_check_mark: | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ✅    |
-| 07.06      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ⬜                  | ⬜    | ⬜    | ⬜     | ⬜    |✅ | ✅    |
+| 07.06      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | :white_check_mark: | ⬜    | ⬜    | ⬜     | ⬜    |✅ | ✅    |
 | 07.07      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    |
 | 07.08      | [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ✅    |
 | 07.09      | [Remove duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3258/) | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    |
