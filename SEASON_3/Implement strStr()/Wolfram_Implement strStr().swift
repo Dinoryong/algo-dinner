@@ -1,3 +1,6 @@
+// 비트로 풀다가 말았음
+
+
 class Solution {
     static let pow = 17
     static let mod = 1000000007
