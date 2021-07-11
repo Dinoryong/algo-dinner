@@ -40,7 +40,7 @@
 | 04. 07 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)              | ✅ | ✅ | ✅ | ✅ ||✅|
 | 04. 08 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                 | ✅ | ✅ | ✅ | ✅ ||✅|
 | 04. 09 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)                 | ✅ | ✅ | ✅ | ✅ ||✅|
-| 04. 10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)               | ✅ | ✅ |  | ✅ |||
+| 04. 10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)               | ✅ | ✅ |  | ✅ ||✅|
 | 04. 11 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)               | ✅ | ✅ | ✅ | ✅ |||
 | 04. 12 | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)         | ✅ | ✅ | ✅ | ✅ |||
 | 04. 13 | [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) (이건 DP 좀 최상위 문제라 안풀어도됨         )  OR [퇴사2](https://www.acmicpc.net/problem/15486)                                                         | ✅ | ✅ | ✅ | ✅ |||
@@ -139,7 +139,7 @@ season . 2
 | 07.08      | [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/) | ⬜                  | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    |
 | 07.09      | [Remove duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3258/) | ⬜                  | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    |
 | 07.10      | [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/) | ⬜   | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    |
-| 07.11.지웅 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)  | ⬜   | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
+| 07.11.지웅 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)  | ⬜   | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    |
 | 07.12      | [3Sum](https://leetcode.com/problems/3sum/)                                | ⬜   | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
 | 07.13      | [Next Permutation](https://leetcode.com/problems/next-permutation/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
 | 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    |
