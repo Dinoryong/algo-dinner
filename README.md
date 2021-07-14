@@ -56,7 +56,7 @@
 | 04. 23 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) AND [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) OR [BOJ 2xN타일링](https://www.acmicpc.net/problem/11726) |   | ✅ | ✅ |          |||
 |        |                                                              |                    |                    |      |      |      |      |
 |        |                                                              |                    |      |      |          |||
-| 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | :white_check_mark: | ✅ | ✅ |      |||
+| 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | :white_check_mark: | ✅ | ✅ |      ||✅|
 | 04. 27 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | :white_check_mark: | ✅ | ✅ |  ✅   |||
 | 04. 28 | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | :white_check_mark: | ✅ |   |    |||
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | :white_check_mark: | :white_check_mark: | ✅ |    |||
@@ -142,8 +142,8 @@ season . 2
 | 07.11.지웅 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)  | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.12      | [3Sum](https://leetcode.com/problems/3sum/)                                | ⬜   | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.13      | [Next Permutation](https://leetcode.com/problems/next-permutation/)   | ⬜ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅| ⬜   |
-| 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.15      | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
+| 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
+| 07.15      | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.16      | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
 | 07.17      | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
 | 07.18.진우 |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
