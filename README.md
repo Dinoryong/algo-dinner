@@ -45,15 +45,15 @@
 | 04. 12 | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)         | ✅ | ✅ | ✅ | ✅ ||✅|
 | 04. 13 | [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) (이건 DP 좀 최상위 문제라 안풀어도됨         )  OR [퇴사2](https://www.acmicpc.net/problem/15486)                                                         | ✅ | ✅ | ✅ | ✅ |||
 | 04. 14 | [스타수열](https://programmers.co.kr/learn/courses/30/lessons/70130)                 | ✅ | ✅ | ✅ | ✅ ||✅|
-| 04. 15 | [합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413) OR [우유도시](https://www.acmicpc.net/problem/14722)                                                                                                                                          | | ✅ | ✅ | ✅|||
-| 04. 16 | [선발명단](https://www.acmicpc.net/problem/3980) OR [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)                                                                                                                                              | | ✅ | |✅|||
-| 04. 17 | [K번째 수](https://www.acmicpc.net/problem/1300) OR    [불!](https://www.acmicpc.net/problem/4179)  | | ✅ | ✅ | ✅ |||
-| 04. 18 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) OR [파일합치기](https://www.acmicpc.net/problem/11066) |  | ✅ | ✅ |    ✅      |||
-| 04. 19 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) OR [사회망서비스](https://www.acmicpc.net/problem/2533) OR [월코챌 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) |     | ✅  | ✅ |     ✅     |||
-| 04. 20 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) OR [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) OR [월코챌 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) OR [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) |    | ✅  | ✅ |     ✅     |||
-| 04. 21 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) AND [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) OR [BOJ 계단수](https://www.acmicpc.net/problem/1562) |   | ✅ | ✅ |     ✅     |||
-| 04. 22 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) AND [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) OR [BOJ LCS](https://www.acmicpc.net/problem/9252) |   | ✅ |      |       ✅   |||
-| 04. 23 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) AND [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) OR [BOJ 2xN타일링](https://www.acmicpc.net/problem/11726) |   | ✅ | ✅ |          |||
+| 04. 15 | [합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413) OR [우유도시](https://www.acmicpc.net/problem/14722)                                                                                                                                          | ✅ | ✅ | ✅ | ✅|||
+| 04. 16 | [선발명단](https://www.acmicpc.net/problem/3980) OR [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)                                                                                                                                              | ✅ | ✅ | |✅|||
+| 04. 17 | [K번째 수](https://www.acmicpc.net/problem/1300) OR    [불!](https://www.acmicpc.net/problem/4179)  | ✅ | ✅ | ✅ | ✅ |||
+| 04. 18 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) OR [파일합치기](https://www.acmicpc.net/problem/11066) | ✅ | ✅ | ✅ |    ✅      |||
+| 04. 19 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) OR [사회망서비스](https://www.acmicpc.net/problem/2533) OR [월코챌 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | ✅ | ✅  | ✅ |     ✅     |||
+| 04. 20 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) OR [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) OR [월코챌 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) OR [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) | ✅ | ✅  | ✅ |     ✅     |||
+| 04. 21 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) AND [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) OR [BOJ 계단수](https://www.acmicpc.net/problem/1562) | ✅ | ✅ | ✅ |     ✅     |||
+| 04. 22 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) AND [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) OR [BOJ LCS](https://www.acmicpc.net/problem/9252) | ✅ | ✅ |      |       ✅   |||
+| 04. 23 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) AND [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) OR [BOJ 2xN타일링](https://www.acmicpc.net/problem/11726) | ✅ | ✅ | ✅ |          |||
 |        |                                                              |                    |                    |      |      |      |      |
 |        |                                                              |                    |      |      |          |||
 | 04. 26 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | :white_check_mark: | ✅ | ✅ |      ||✅|
@@ -62,7 +62,7 @@
 | 04. 29 | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | :white_check_mark: | :white_check_mark: | ✅ |    |||
 | 04. 30 | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | :white_check_mark: | :white_check_mark:  | ✅ |   |||
 | 05. 01 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | :white_check_mark: | ✅ | ✅ | | ✅ ||
-| 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | | | ✅ | |||
+| 05. 02 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | ✅ | | ✅ | |||
 | 05. 03 |  | | |  | |||
 | 05. 04 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | :white_check_mark: | :white_check_mark: | ✅ | |||
 | 05. 05 | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | :white_check_mark: | :white_check_mark: | | ✅ |||
@@ -78,24 +78,24 @@
 | 05.15 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :white_check_mark: | ✅ | ✅ |✅ | ✅ ||
 | 05.18 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | :white_check_mark: | ✅ | ✅ | | ✅ ||
 | 05.19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :white_check_mark: | :white_check_mark:  | |✅ | ✅ ||
-| 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | | ✅ | | ✅| ✅ ||
-| 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | | ✅ | ✅ | | ✅ ||
-| 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | |  | | |||
-| 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | | ✅  | ✅ | |||
+| 05.20 | [가르침](https://www.acmicpc.net/problem/1062)               | ✅ | ✅ | | ✅| ✅ ||
+| 05.21 | [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | ✅ | ✅ | ✅ | | ✅ ||
+| 05.22 | [구슬탈출](https://www.acmicpc.net/problem/13460) | ✅ |  | | |||
+| 05.23 | [4 sum](https://leetcode.com/problems/4sum-ii/) | ✅ | ✅  | ✅ | |||
 | 05.24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | :white_check_mark: | ✅ | ✅ | | ✅ ||
-| 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | ✅ | | | ||
-| 05.26 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | | ✅| | | ||
-| 05.27 | [gas station](https://leetcode.com/problems/gas-station/) | | ✅ | | | ||
-| 05.28 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | | ✅ | | | ✅ ||
-| 05.29 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | | ✅ | | | ||
-| 05.30 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | ✅ | | | ||
-| 05.31 | [minimum path sum](https://leetcode.com/problems/minimum-path-sum/) | | ✅ | | | ✅ ||
+| 05.25 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | ✅ | ✅ | | | ||
+| 05.26 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | ✅ | ✅| | | ||
+| 05.27 | [gas station](https://leetcode.com/problems/gas-station/) | ✅ | ✅ | | | ||
+| 05.28 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | ✅ | ✅ | | | ✅ ||
+| 05.29 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ✅ | ✅ | | | ||
+| 05.30 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ✅ | ✅ | | | ||
+| 05.31 | [minimum path sum](https://leetcode.com/problems/minimum-path-sum/) | ✅ | ✅ | | | ✅ ||
 | 06.01 | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ | ✅ | | | ✅ ||
-| 06.02 | [kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | | ✅ | | | ✅ ||
-| 06.03 | [surrounded regions](https://leetcode.com/problems/surrounded-regions/) | | ✅ | | | ||
-| 06.04 | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | | ✅ | | | ||
-| 06.05 | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | | ✅| | | ||
-| 06.06 | [powx-n](https://leetcode.com/problems/powx-n/) | | ✅ | | | ||
+| 06.02 | [kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | ✅ | | | ✅ ||
+| 06.03 | [surrounded regions](https://leetcode.com/problems/surrounded-regions/) | ✅ | ✅ | | | ||
+| 06.04 | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | ✅ | ✅ | | | ||
+| 06.05 | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | ✅ | ✅| | | ||
+| 06.06 | [powx-n](https://leetcode.com/problems/powx-n/) | ✅ | ✅ | | | ||
 
 
 
@@ -104,24 +104,24 @@ season . 2
 | date   | problem set                                                                                  | 영지| 지웅| 진우| 주영| 예은|건욱|상도|
 | ------ | -----------------------------------------------------------------------------------          | ---|---| ---| ---| ---|---|---|
 | 06.07 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                           | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
-| 06.08 | [Word Break](https://leetcode.com/problems/word-break/)                                       | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
-| 06.09 | [Game of Life](https://leetcode.com/problems/game-of-life/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
-| 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)               | ⬜ | ✅ | ✅ | ✅ | ✅ | ⬜ |✅ |
-| 06.11 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)                        | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
-| 06.12 | [Search a 2d Matrix 2](https://leetcode.com/problems/search-a-2d-matrix-ii/)                  | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
-| 06.13 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                 | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.08 | [Word Break](https://leetcode.com/problems/word-break/)                                       | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.09 | [Game of Life](https://leetcode.com/problems/game-of-life/)                                   | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.10 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)               | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ |✅ |
+| 06.11 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)                        | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.12 | [Search a 2d Matrix 2](https://leetcode.com/problems/search-a-2d-matrix-ii/)                  | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.13 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                 | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
 | 06.14 | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)                         | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
 | 06.15 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)                    | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
-| 06.16 | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                           | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
-| 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
-| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
-| 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ⬜ | ✅ | ⬜ | ⬜ | ✅ | ✅ |✅ |
-| 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                        | ⬜ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
-| 06.21 | [ACM Craft](https://www.acmicpc.net/problem/1005)                                             | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |✅ |
-| 06.22 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                        | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
-| 06.23 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)                | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
-| 06.24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                        | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ⬜ |✅ |
-| 06.25 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                               | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
+| 06.16 | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                           | ✅ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
+| 06.17 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                   | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.18 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |✅ |
+| 06.19 | [Vaild Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   | ✅ | ✅ | ⬜ | ⬜ | ✅ | ✅ |✅ |
+| 06.20 | [나무 위에 빗물](https://www.acmicpc.net/problem/17073)                                        | ✅ | ✅ | ✅ | ⬜ | ✅ | ⬜ |✅ |
+| 06.21 | [ACM Craft](https://www.acmicpc.net/problem/1005)                                             | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |✅ |
+| 06.22 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                        | ✅ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
+| 06.23 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)                | ✅ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
+| 06.24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                        | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ |✅ |
+| 06.25 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                               | ✅ | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
 | 06.26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   | :white_check_mark: | ✅ | ✅ | ⬜ | ⬜ | ⬜ |✅ |
 | 06.27 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                   | :white_check_mark: | ✅ | ✅ | ⬜ | ⬜ | ✅ |✅ |
 |  |  |  |  |  |  |  |  ||
@@ -140,18 +140,10 @@ season . 2
 | 07.09      | [Remove duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3258/) | ✅                 | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
 | 07.10      | [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/) | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
 | 07.11.지웅 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)  | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
-| 07.12      | [3Sum](https://leetcode.com/problems/3sum/)                                | ⬜   | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
-| 07.13      | [Next Permutation](https://leetcode.com/problems/next-permutation/)   | ⬜ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅| ⬜   |
-| 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ⬜ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
+| 07.12      | [3Sum](https://leetcode.com/problems/3sum/)                                | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
+| 07.13      | [Next Permutation](https://leetcode.com/problems/next-permutation/)   | ✅ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅| ⬜   |
+| 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ✅ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.15      | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.16      | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
 | 07.17      | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.18.진우 |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.19      |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.20      |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.21      |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.22      |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.23      |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.24      |                                                              | ⬜                  | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ⬜   |
-| 07.25.상도 |                                                              |                    |      |      |      |      |      |      |      |
 
