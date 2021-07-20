@@ -139,10 +139,10 @@ season . 2
 | 07.08      | [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/) | ✅                 | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
 | 07.09      | [Remove duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3258/) | ✅                 | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
 | 07.10      | [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/) | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
-| 07.11.지웅 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)  | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
-| 07.12      | [3Sum](https://leetcode.com/problems/3sum/)                                | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
+| 07.11.지웅 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)  | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
+| 07.12      | [3Sum](https://leetcode.com/problems/3sum/)                                | ✅  | ✅    | ⬜    | ⬜    | ⬜    | ✅    | ✅    | ⬜   |
 | 07.13      | [Next Permutation](https://leetcode.com/problems/next-permutation/)   | ✅ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅| ⬜   |
-| 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ✅ | ✅    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
+| 07.14      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | ✅ | ✅    | ⬜    | ⬜    | ⬜    | ✅     | ✅    | ⬜   |
 | 07.15      | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.16      | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
 | 07.17      | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)   | ⬜ | ⬜    | ⬜    | ⬜    | ⬜    | ⬜    | ✅    | ⬜   |
